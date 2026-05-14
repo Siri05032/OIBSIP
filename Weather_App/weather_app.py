@@ -6,7 +6,7 @@ import requests
 # =========================
 # API KEY
 # =========================
-API_KEY = "2277b6f734564f587648b586af376477"
+API_KEY = "Enter Your API key"
 
 # Default Unit
 unit = "metric"
